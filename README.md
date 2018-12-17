@@ -169,7 +169,7 @@ Polkadot
 
 [Founder—Arthur Gervai Twitter](https://twitter.com/HatforceSec)
 
-### Product/document
+### Product/Document
 
 [White Paper](https://liquidity.network/whitepaper_Liquidity_Network.pdf)
 
@@ -221,7 +221,7 @@ Polkadot
 
 [Founder—Joseph Poon Twitter](https://twitter.com/jcp)
 
-### Product/document
+### Product/Document
 
 [Summary](https://lightning.network/lightning-network-summary.pdf)
 
@@ -293,7 +293,7 @@ Polkadot
 
 [Cofounder— Lefteris Karapetsas Twitter](https://twitter.com/LefterisJP) 
 
-### Product/document
+### Product/Document
 
 [Raiden Network Docs](http://raiden-network.readthedocs.io/en/stable/)
 
@@ -343,7 +343,7 @@ Polkadot
 
 [Facebook](https://www.facebook.com/perun.network/)
 
-### Product/document
+### Product/Document
 
 [Generic State Channel Networks](https://eprint.iacr.org/2018/320.pdf)
 
@@ -382,7 +382,7 @@ Polkadot
 
 [Cofounder—Tim Close Twitter](https://twitter.com/tomclse)
 
-### Product/document
+### Product/Document
 
 [White Paper](https://magmo.com/force-move-games.pdf)
 
@@ -424,7 +424,7 @@ Polkadot
 
 [YouTube](https://www.youtube.com/channel/UCr83ZHr_jPV_ANrs8u0cGSw/videos)
 
-### Product/document
+### Product/Document
 
 [Disruptive online gaming on the blockchain that’s Fun, Fast and Fair](https://funfair.io/wp-content/uploads/FunFair-Commercial-White-Paper.pdf) 
 
@@ -494,11 +494,11 @@ Polkadot
 
 [Cofounder Arjun Bhuptani](https://twitter.com/Arjun_Bhuptani)
 
-### Product/document
+### Product/Document
 
 [Docs](https://docs.connext.network/)
 
-### articles
+### Articles
 
 [Transparency Report](https://medium.com/connext/transparency-report-64c9e58e0a19)
 
@@ -530,7 +530,7 @@ Polkadot
 
 [Gitter](https://gitter.im/machinomy/machinomy)
 
-### Product/document
+### Product/Document
 
 [API](https://machinomy.com/api/)
 
