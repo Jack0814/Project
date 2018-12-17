@@ -426,8 +426,6 @@ Polkadot
 
 ### Product/document
 
-### Basic Information
-
 [Disruptive online gaming on the blockchain that’s Fun, Fast and Fair](https://funfair.io/wp-content/uploads/FunFair-Commercial-White-Paper.pdf) 
 
 [FunFair Technology Roadmap and Discussion](https://funfair.io/wp-content/uploads/FunFair-Technical-White-Paper.pdf)
@@ -450,7 +448,7 @@ Polkadot
 
 [FunFair company update — Aug 31st](https://medium.com/@aerobatic/funfair-company-update-aug-31st-72662f7576b2)
 
-### VideoS
+### Videos
 
 [Fun, fast & fair casino games powered by Ethereum](https://www.youtube.com/watch?v=Gb3RrTy40yI&feature=youtu.be)
 
@@ -472,7 +470,7 @@ Polkadot
 
 [Pisa: Arbitration Outsourcing for State Channels](http://www0.cs.ucl.ac.uk/staff/P.McCorry/pisa.pdf) 
 
-### articles
+### Articles
 
 [Pisa: Arbitration Outsourcing for State Channels](https://ethresear.ch/t/pisa-arbitration-outsourcing-for-state-channels/2058)
 
